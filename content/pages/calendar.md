@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the schedule of discussion topics, student presentation
   topics, activities, and exams for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -110,7 +112,7 @@ Conservative youth movements
 8
 {{< tdclose >}}
 {{< tdopen colspan="2" >}}
-Students will visit the {{% resource_link "c00d1976-8bcd-4545-960e-ec08b5a02c14" "MIT Museum" %}}; discuss the history of political participation of MIT students, with reference to technology, media, and political hacks; and the origins of the {{% resource_link "aa19b830-c0cf-4452-9c3c-10c8cd59fa36" "Independent Activities Period (IAP)" %}}.
+Students will visit the [MIT Museum](http://web.mit.edu/museum/); discuss the history of political participation of MIT students, with reference to technology, media, and political hacks; and the origins of the [Independent Activities Period (IAP)](http://web.mit.edu/iap/).
 {{< tdclose >}}
 
 {{< trclose >}}

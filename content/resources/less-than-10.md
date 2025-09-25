@@ -5,6 +5,8 @@ description: Image showing the approximate number of students enrolled in the co
 file: /courses/sts-080-youth-political-participation-spring-2016/4277bd96d70306f242bd4deeb664f383_less-than-10.png
 file_size: 2955
 file_type: image/png
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
