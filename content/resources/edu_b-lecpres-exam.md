@@ -4,8 +4,6 @@ description: An image with lecture, presentation, and exam together.
 file: /courses/sts-080-youth-political-participation-spring-2016/f516af2a588a2ef48a0ef1c091a035ca_edu_b-lecpres-exam.png
 file_size: 17419
 file_type: image/png
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
